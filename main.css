@@ -148,8 +148,7 @@ footer{
 
 
 
-
-@media  only  screen and (max-width:800px) {
+@media  only  screen and (max-width:450px) {
 
 .conimg{
     display: block;
@@ -159,7 +158,7 @@ footer{
     margin-top: 30px;
 }
 .pepeharry{display:block}
-}
+
 
 .contenedorsobre-nosotras{
     height: auto;
@@ -167,4 +166,14 @@ footer{
     background-color: #fff;
     display: flex;
     flex-direction: column;
+}
+.contenidos-textos{
+    width: 90%;
+    margin: 5px;
+}
+
+.imagen-sobre-nostras{ 
+    width: 90%;
+}
+
 }
